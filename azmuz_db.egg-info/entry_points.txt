@@ -1,2 +1,0 @@
-[console_scripts]
-azmuz-db = azmuz_db.main:main
